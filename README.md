@@ -1,6 +1,3 @@
-# go-mimikatz
-A Go wrapper Mimikatz for the purpose of anti-virus evasion.
-
 # Building
 cd into the repo and run `go generate`
 
